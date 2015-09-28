@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: MailChimp e-mail synchronization
+SystemName: Misc.MailChimp
+Version: 2.0
+SupportedVersions: 3.40
+Author: Francesc Castells
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.MailChimp.dll
